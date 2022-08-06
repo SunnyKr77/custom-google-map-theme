@@ -11,7 +11,7 @@ Screenshots of project
 ![Map View](./ss/super-mario-map.png)
 
 and
-link to live demo
+link to [live demo](https://sunnykr77.github.io/custom-google-map-theme/)
 
 
 ## License
